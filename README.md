@@ -10,6 +10,4 @@
    * Check lottery state
    * View/Claim prizes
    * Lottery admin
-## Resources
 
-Lesson 20: https://github.com/Encode-Club-Solidity-Bootcamp/Lesson-20
